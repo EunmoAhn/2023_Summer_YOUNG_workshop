@@ -632,8 +632,8 @@ div#main-nav {
 }
 
 .service_icon {  
-    width: 90px;
-    height: 85px;
+    width: 72px; 
+    height: 68px;
     margin: 0px auto 25px; 
 }
 
@@ -642,8 +642,8 @@ div#main-nav {
 .service_icon span {
     background: transparent; 
     display: block;
-    height: 95px;
-    width: 95px;
+    height: 76px;
+    width: 76px;
 	
     border: 1px solid #FFFFFF;
     border-radius: 50%;
@@ -652,7 +652,7 @@ div#main-nav {
 
 .service_icon i {
   color: #FEE16F;
-font-size: 40px;
+font-size: 25px;
 margin-top: 0;
 position: relative;
 top: 20px;
@@ -664,7 +664,7 @@ text-align: center;
 .service_block h3 {
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 16px;
     color: #fff;
 margin: 35px 0 15px; 
 }
